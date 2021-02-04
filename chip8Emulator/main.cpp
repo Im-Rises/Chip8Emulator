@@ -2,7 +2,7 @@
 
 int main()
 {
-    
+    int test = 5;
 }
 
 // Exécuter le programme : Ctrl+F5 ou menu Déboguer > Exécuter sans débogage
