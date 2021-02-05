@@ -1,7 +1,6 @@
-#ifndef CPU
-#define CPU
+#ifndef DEF_CPU
+#define DEF_CPU
 
-//déclarations classe Cpu
 class Cpu
 {
 private:
