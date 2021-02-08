@@ -1,0 +1,5 @@
+﻿  Affichage.cpp
+  main.cpp
+C:\Users\Quent\Downloads\Developpement\Programmes\C++\Chip8Emulator\Chip8Emulator\main.cpp(23,10): warning C4101: 'test': unreferenced local variable
+  Generating Code...
+  Chip8Emulator.vcxproj -> C:\Users\Quent\Downloads\Developpement\Programmes\C++\Chip8Emulator\Debug\Chip8Emulator.exe
