@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-//#include "Chip8.h"
+#include "Chip8.h"
 #include "Affichage.h"
 #include "SDL2/include/SDL.h"
 
