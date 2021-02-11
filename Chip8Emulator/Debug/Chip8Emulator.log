@@ -1,5 +1,4 @@
-﻿  Affichage.cpp
-  main.cpp
-C:\Users\Quent\Downloads\Developpement\Programmes\C++\Chip8Emulator\Chip8Emulator\main.cpp(23,10): warning C4101: 'test': unreferenced local variable
-  Generating Code...
+﻿  main.cpp
+C:\Users\Quent\Downloads\Developpement\Programmes\C++\Chip8Emulator\Chip8Emulator\Chip8.h(28,26): warning C4305: 'initializing': truncation from 'int' to 'uint8'
+C:\Users\Quent\Downloads\Developpement\Programmes\C++\Chip8Emulator\Chip8Emulator\Chip8.h(28,28): warning C4309: 'initializing': truncation of constant value
   Chip8Emulator.vcxproj -> C:\Users\Quent\Downloads\Developpement\Programmes\C++\Chip8Emulator\Debug\Chip8Emulator.exe
