@@ -1,0 +1,10 @@
+Afin de pouvoir changer facilement de moteur graphique si un jour la SDL n'est plus désirée. 
+La SDL est incluse dans un fichier séparé de la partie emulation. Comme ça on a une partie
+frontend (SDL) et une partie backend (l'emulation).
+Le main servant juste à lancer les instructions de l'emulateur et récupérer les infos
+pour les traiter avec la SDL.
+
+Le programme est donc répartie :
+- main.cpp (Gère le fonctionnement de l'emulateur et récupère ses données d'affichages pour l'afficher avec un moteur 2D comme SDL. Fait l'intermédiaire entre Chip8.cpp et Affichage.cpp)
+- Chip8.cpp (Fonctions de l'emulateur)
+- Affichage.cpp (Fonctions d'affichage qui récupère les données des pixels de la chip8)

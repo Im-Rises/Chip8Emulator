@@ -13,7 +13,7 @@ int main(int argc, char* argv[])
 	SDL_Window* window;
 	SDL_Renderer* renderer;
 
-	initialiserSDL();
+	testInitialisationSDL();
 	intialiserVideoSDL(resolX, resolY, window, renderer);
 
 	/*

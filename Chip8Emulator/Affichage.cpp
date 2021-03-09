@@ -1,6 +1,6 @@
 #include "Affichage.h"
 
-void initialiserSDL()
+void testInitialisationSDL()
 {
 	if (SDL_Init(SDL_INIT_VIDEO | SDL_INIT_AUDIO) != 0)
 		exit(EXIT_FAILURE);

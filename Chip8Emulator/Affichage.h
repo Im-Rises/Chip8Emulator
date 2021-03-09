@@ -5,7 +5,7 @@
 
 #include "SDL2/include/SDL.h"
 
-void initialiserSDL();
+void testInitialisationSDL();
 void intialiserVideoSDL(int& resolX, int& resolY, SDL_Window*& window, SDL_Renderer*& renderer);
 
 #endif
